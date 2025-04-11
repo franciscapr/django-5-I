@@ -61,3 +61,4 @@ def post_share(request, post_id):
             'sent': sent
         }
     )
+
